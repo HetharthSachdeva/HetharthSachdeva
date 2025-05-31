@@ -12,7 +12,7 @@ Full-stack web applications – combining React (frontend) with Flask (backend) 
 
 I enjoy turning complex ideas into practical solutions using Python, JavaScript, C++, and a blend of machine learning and system design. Whether it's optimizing a trading pipeline or deploying a vision model, I’m always up for the challenge.
 
-💼 Current Focus Areas
+💼 Current Focus Areas<br/>
 🔄 Multi-strategy trading automation
 
 🧠 Deep learning for OCR and text recognition
