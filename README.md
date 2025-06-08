@@ -14,7 +14,7 @@ I enjoy turning complex ideas into practical solutions using Python, JavaScript,
 
 💼 Current Focus Areas :-
 
-🔄 Multi-strategy trading automation
+🔄 Agents to handle social media using LLMs
 
 🧠 Deep learning for OCR and text recognition
 
