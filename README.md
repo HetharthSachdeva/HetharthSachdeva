@@ -1,12 +1,9 @@
 # 💫About Me :
-🧑‍💻 About Me
 Hey there! I’m Hetharth Sachdeva, a passionate developer and problem-solver focused on building intelligent systems at the intersection of finance, AI, and web technologies.
 
 I actively work on projects involving:
 
 Financial algorithmic trading systems – building and testing automated strategies across multiple users and assets
-
-Deep learning-based OCR – reimagining traditional OCR workflows using modern computer vision techniques
 
 Full-stack web applications – combining React (frontend) with Flask (backend) to create smart, interactive tools
 
@@ -15,8 +12,6 @@ I enjoy turning complex ideas into practical solutions using Python, JavaScript,
 💼 Current Focus Areas :-
 
 🔄 Agents to handle social media using LLMs
-
-🧠 Deep learning for OCR and text recognition
 
 
 💻 DSA via Leetcode (C++) for strong fundamentals
