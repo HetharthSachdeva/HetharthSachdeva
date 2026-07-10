@@ -1,25 +1,78 @@
-# 💫About Me :
-Hey there! I’m Hetharth Sachdeva, a passionate developer and problem-solver focused on building intelligent systems at the intersection of finance, AI, and web technologies.
+# 💫 About Me
 
-I actively work on projects involving:
+Hi, I'm **Hetharth Sachdeva**, an Information Technology undergraduate at **NIT Raipur** passionate about building scalable software and AI-powered applications.
 
-Financial algorithmic trading systems – building and testing automated strategies across multiple users and assets
+My interests span **Backend Engineering, Artificial Intelligence, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and Distributed Systems**. I enjoy designing systems that solve real-world problems—from AI-powered shopping assistants and multimodal RAG platforms to browser automation agents and intelligent moderation tools.
 
-Full-stack web applications – combining React (frontend) with Flask (backend) to create smart, interactive tools
+I love taking products from idea to deployment by combining solid software engineering principles with modern AI.
 
-I enjoy turning complex ideas into practical solutions using Python, JavaScript, C++, and a blend of machine learning and system design. Whether it's optimizing a trading pipeline or deploying a vision model, I’m always up for the challenge.
+## 🚀 Current Focus
 
-💼 Current Focus Areas :-
+- 🤖 AI Agents & Browser Automation
+- 🧠 Large Language Models (LLMs) & Retrieval-Augmented Generation (RAG)
+- ⚡ FastAPI, Async Python & Distributed Backend Systems
+- 📦 Backend Engineering & System Design
+- 💻 Data Structures & Algorithms (LeetCode & Codeforces)
 
-🔄 Agents to handle social media using LLMs
+---
 
+## 🏆 Highlights
 
-💻 DSA via Leetcode (C++) for strong fundamentals
+- 🥇 **Winner – Hack-o-Harbour 2025 (IIIT Naya Raipur)** for **COOKGPT**, a Multimodal RAG Chatbot
+- 🔬 **Research Intern** at **CVIT Lab, IIIT Hyderabad**, working on OCR preprocessing for document images
+- 💼 **Former Python Developer Intern** at **Finkulp**
+- 🛠️ Built AI-powered applications using **FastAPI, LangChain, Pinecone, Supabase, React, and Google Gemini**
 
+---
 
+## 🌐 Connect With Me
 
-## 🌐Socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/hetharth-sachdeva-9226301b6/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hetharth-sachdeva-9226301b6/)
 
-# 💻Tech Stack
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Backend
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+### Frontend
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### AI / ML
+
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+
+### Databases
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge)
+
+### Tools & DevOps
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
