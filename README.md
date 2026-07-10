@@ -59,15 +59,11 @@ I love taking products from idea to deployment by combining solid software engin
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-### Databases
-
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Pinecone](https://img.shields.io/badge/Pinecone-0066FF?style=for-the-badge)
-
 ### Tools & DevOps
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+
+[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=HetharthSachdeva&rank_icon=github&show_icons=true&include_all_commits=true)](https://github-stats-extended.vercel.app/api?username=HetharthSachdeva&rank_icon=github&show_icons=true&include_all_commits=true)
